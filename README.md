@@ -11,3 +11,5 @@ https://www.cloudflare.com/products/registrar/
 To set up github pages with Cloudflare:
 https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare/
 
+Theme:
+https://github.com/nikkipeel/tailwind-blog
