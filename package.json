@@ -2,7 +2,7 @@
   "name": "tailwind-blog",
   "version": "1.0.0",
   "description": "Blog template built with Tailwind CSS",
-  "homepage": "https://ninapartha.github.io",
+  "homepage": "https://ninapartha.github.io/tailwind-blog",
   "main": "index.js",
   "scripts": {
     "build:css": "tailwind build src/style.css -o dist/main.css",
