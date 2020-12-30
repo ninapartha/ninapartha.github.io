@@ -2,13 +2,13 @@
   "name": "tailwind-blog",
   "version": "1.0.0",
   "description": "Blog template built with Tailwind CSS",
-  "homepage": "https://techprincess.net",
+  "homepage": "https://ninapartha.github.io",
   "main": "index.js",
   "scripts": {
     "build:css": "tailwind build src/style.css -o dist/main.css",
     "publish": "gh-pages -d dist"
   },
-  "author": "Nikki Peel",
+  "author": "Nina Partha",
   "license": "ISC",
   "keywords": [],
   "dependencies": {
