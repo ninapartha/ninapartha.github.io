@@ -7,7 +7,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: theme => ({
-        'home-bg': "url('/img/circuit.jpeg')",
+        'home-bg': "url('/img/home-bg.jpeg')",
        })
     },
     container: {
