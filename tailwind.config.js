@@ -6,9 +6,9 @@ module.exports = {
   purge: [],
   theme: {
     extend: {
-      backgroundImage: theme => ({
+      backgroundImage: {
         'home-bg': "url('/img/home-bg.jpeg')",
-       })
+       }
     },
     container: {
       center: true,
